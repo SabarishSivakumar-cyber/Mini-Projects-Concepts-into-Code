@@ -1,0 +1,7 @@
+Enter target IP or website: scanme.nmap.org
+
+Scanning target: scanme.nmap.org
+Open ports:
+
+Port 22 is OPEN
+Port 80 is OPEN
